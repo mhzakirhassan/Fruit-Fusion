@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🍇 Fruit Fusion — Modern Juice Product Landing Page
 
-# Run and deploy your AI Studio app
+A vibrant, modern, and fully responsive product landing page designed to showcase fruit-based beverages in a clean, minimal, and engaging way.
 
-This contains everything you need to run your app locally.
+This website highlights four signature juice flavors using bold colors, smooth gradients, and a refreshing layout that enhances user experience.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1vxbezclATpzwNyVDV5UB-dUud2u-65z8
+⭐ Features
 
-## Run Locally
+🎨 Colorful, eye-catching UI with soft gradients
 
-**Prerequisites:**  Node.js
+📱 Fully responsive layout for all devices
 
+🍹 Showcase section with four unique product cards
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✨ Smooth typography and creative theme
+
+🧭 Simple navigation: Home • Shop Us • About Us • Contact
+
+🎯 Perfect for product branding or juice/smoothie startups
+
+🖼️ Preview
+
+🛠️ Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (optional/minimal)
+
+📦 Purpose
+
+This project was built to explore modern UI design styles with bold gradients, clean layout structure, and product-focused presentation — ideal for portfolio showcasing or frontend practice.
